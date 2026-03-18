@@ -1,0 +1,13 @@
+name = "Controllable Carts"
+filename = "controllablecarts-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/scnqO9jG/versions/lafCIAy3/controllablecarts-1.0.0.jar"
+hash-format = "sha512"
+hash = "431d917e9216c2dbcc4ddfcb79dbb05f1496c3693890a379d3925f923655ce7aa70da15021f897ab00cab8658d0dd8f9698ddbeb75d9084534d570ba96eb9e6c"
+
+[update]
+[update.modrinth]
+mod-id = "scnqO9jG"
+version = "lafCIAy3"

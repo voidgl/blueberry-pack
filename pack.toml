@@ -1,0 +1,13 @@
+name = "Blueberry"
+author = "Seth"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c5d2b3a142f809ca7ad1f5df4af56c34cdfc14e3455cbb12048ddf7ce305c4f4"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.10"

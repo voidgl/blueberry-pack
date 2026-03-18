@@ -1,0 +1,4 @@
+{
+	// Whether only mending items in the toolbar should be repaired, instead of the entire inventory.
+	"mendToolbarOnly": false
+}

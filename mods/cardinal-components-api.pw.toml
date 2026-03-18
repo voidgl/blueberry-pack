@@ -1,0 +1,13 @@
+name = "Cardinal Components API"
+filename = "cardinal-components-api-7.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K01OU20C/versions/LfKjIXlt/cardinal-components-api-7.2.0.jar"
+hash-format = "sha512"
+hash = "17f774748496ab1ad90172b9fda68a15033a94c7eac1ca1d7c78444a8eef3b38dad9694baf21fa6b1d3fc9a95095b974707ccc4b74f283455d8c09a7216d6f5c"
+
+[update]
+[update.modrinth]
+mod-id = "K01OU20C"
+version = "LfKjIXlt"

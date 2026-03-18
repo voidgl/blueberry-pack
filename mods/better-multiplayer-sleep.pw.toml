@@ -1,0 +1,13 @@
+name = "Better-Multiplayer-Sleep"
+filename = "BetterMultiplayerSleep-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1DnHa5X8/versions/MNwRYui4/BetterMultiplayerSleep-1.0.jar"
+hash-format = "sha512"
+hash = "9db4f4ef2c364a006375e667c07d9abd42a6abc199f7e5dd385fdab6be875f482dcf8c44c9a51b8af1875a918b2b3d2aa4e65fc9598d5c39afdc6d289abd5b93"
+
+[update]
+[update.modrinth]
+mod-id = "1DnHa5X8"
+version = "MNwRYui4"

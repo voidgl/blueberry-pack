@@ -1,0 +1,13 @@
+name = "ClipboardScreenshot"
+filename = "ClipboardScreenshot-1.0.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xAZojC2l/versions/98T3JBBH/ClipboardScreenshot-1.0.6.jar"
+hash-format = "sha512"
+hash = "c07a9e2240d6848b445d203ad4589b3a7ea67351935fcf1721f774e855ff3ccd90b40099c0f51821c889af1734a9320b1de622a861e681b1f0ecd0cd29ab76fb"
+
+[update]
+[update.modrinth]
+mod-id = "xAZojC2l"
+version = "98T3JBBH"

@@ -1,0 +1,13 @@
+name = "I'm Fast"
+filename = "imfast-FABRIC-1.21.10-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PaUMOeP0/versions/vY05HS8c/imfast-FABRIC-1.21.10-1.0.3.jar"
+hash-format = "sha512"
+hash = "a910d8127a822dc3ca65209eb57fbd825100ac8d40b24fcbc9439f355d0ac2698901b600090364da9aaff5998a3bd06ac361b03f95b19c5d666f1bc8efeafeff"
+
+[update]
+[update.modrinth]
+mod-id = "PaUMOeP0"
+version = "vY05HS8c"

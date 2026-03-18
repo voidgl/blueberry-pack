@@ -1,0 +1,13 @@
+name = "Name Tag Crafting Recipe"
+filename = "name-tag-crafting-recipe-mod-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q7p1GuHj/versions/KpLpvz6e/name-tag-crafting-recipe-mod-1.0.jar"
+hash-format = "sha512"
+hash = "00d8d1db5618039b54dbeea0082163a5c4d7d45e7fba9654d457ad0ed0924a552fa9bb4da84ad6331827a4480989395add82900ceb39d837fffb3d43d1e484df"
+
+[update]
+[update.modrinth]
+mod-id = "q7p1GuHj"
+version = "KpLpvz6e"

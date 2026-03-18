@@ -1,0 +1,13 @@
+name = "Inventory Mending"
+filename = "inventorymending-1.21.10-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/y6Ryy40D/versions/n8aDFVdr/inventorymending-1.21.10-1.2.jar"
+hash-format = "sha512"
+hash = "c0fcc7609b2d6a81db0432b78cee2a7e07c3e488cb7c939b18a0e2b4dc1d444338925e928b78310f0f6120f625431f7f5fd720099f6d6ad11bccdb1b542d22b4"
+
+[update]
+[update.modrinth]
+mod-id = "y6Ryy40D"
+version = "n8aDFVdr"

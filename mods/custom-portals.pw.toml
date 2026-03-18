@@ -1,0 +1,13 @@
+name = "Custom Portals"
+filename = "custom-portals-3.11.1+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/38pHU3u5/versions/Vi74onTX/custom-portals-3.11.1%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "d3df6eeab2ed219f52fdba8ce0e49ef95af05cc5f727dc5b90d9df227027ade9a107a220014e1fb1b1d56c443f46177a37f8a5dd3d563e5bcf2e591bd9769cac"
+
+[update]
+[update.modrinth]
+mod-id = "38pHU3u5"
+version = "Vi74onTX"

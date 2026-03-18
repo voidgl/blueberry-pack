@@ -1,0 +1,8 @@
+DurabilityWoodenPaxel = 177 # Durability of Wooden Paxel | default: 177
+DurabilityStonePaxel = 393 # Durability of Stone Paxel | default: 393
+DurabilityCopperPaxel = 570 # Durability of Copper Paxel | default: 570
+DurabilityIronPaxel = 750 # Durability of Iron Paxel | default: 750
+DurabilityGoldenPaxel = 96 # Durability of Golden Paxel | default: 96
+DurabilityDiamondPaxel = 4683 # Durability of Diamond Paxel | default: 4683
+DurabilityNetheritePaxel = 6093 # Durability of Netherite Paxel | default: 6093
+

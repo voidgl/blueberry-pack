@@ -1,0 +1,13 @@
+name = "Portfolio"
+filename = "portfolio-1.21.x-1.5.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2k6aLirX/versions/7pbkQVl1/portfolio-1.21.x-1.5.5-fabric.jar"
+hash-format = "sha512"
+hash = "7e7b006c3760e529beeed246cbe9a98e7c328787dcbcabbd7b1c041797c1aba148859d86142f1b4796c9f8a0a9c2a124ec943bc0724b9e0ef48e00127a2643bd"
+
+[update]
+[update.modrinth]
+mod-id = "2k6aLirX"
+version = "7pbkQVl1"

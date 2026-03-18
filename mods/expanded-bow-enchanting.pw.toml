@@ -1,0 +1,13 @@
+name = "Expanded Bow Enchanting"
+filename = "expanded-bow-enchanting-1.1.12.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5GZUvxmB/versions/XGlVaIAs/expanded-bow-enchanting-1.1.12.jar"
+hash-format = "sha512"
+hash = "5dd9ef862a69f263f84f1874bed4a5d86ecc2709b06a3b65252893b15c776a3dc51a77d76585e91b0b792dd41b6330c5110ec59c5573d3fa30f60cf8712d9b18"
+
+[update]
+[update.modrinth]
+mod-id = "5GZUvxmB"
+version = "XGlVaIAs"

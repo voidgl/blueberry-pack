@@ -1,0 +1,13 @@
+name = "Only Paxels"
+filename = "OnlyPaxel-1.21.10-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MzCqE56H/versions/n9562aWY/OnlyPaxel-1.21.10-0.2.jar"
+hash-format = "sha512"
+hash = "b319d898a1b15da2eaab45bd258f1c735e17f72510d1c096c994dcd9ded093e8186cb37776ee31de2a29c267b7195f5996ff0057117bda7a2ffbb65244eb66ed"
+
+[update]
+[update.modrinth]
+mod-id = "MzCqE56H"
+version = "n9562aWY"
