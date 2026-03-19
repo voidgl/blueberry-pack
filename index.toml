@@ -302,6 +302,11 @@ hash = "5756cb05c3ad7ca3ff32deccffa43ef5057018416d2001af137e45d8797f36d0"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "5548560fe3c688df9ace426a565671a86d1c7b5dc766f4ccfdd961835603b07a"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6083db761c82eece49adba0b0cee0b37068422e2eb170b7039ebae65972d03e1"
 metafile = true
