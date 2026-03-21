@@ -273,6 +273,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "mods/big-giant-gun-1.0.0.jar"
+hash = "8655730c09669c88a00008bbcc2928fafae78e818628d41e0ceadd90662e70bd"
+
+[[files]]
 file = "mods/CraftableSaddle-fabric-1.21.10-1.7.2.jar"
 hash = "8096bd760055b09519f974e557e746ae20a8ab9390aef1b321fc797a42110eb0"
 
