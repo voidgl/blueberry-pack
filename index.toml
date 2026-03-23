@@ -54,7 +54,7 @@ hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
 file = "config/customportals.json"
-hash = "02a5ec2e96cd58fffeda7b082f5f291a11e3e64fb245ddb2a415c1cc37a49de5"
+hash = "a273775da19c58da84f65c4e89ce4fcea19be07cdafe361517f0be6d2e3ad1de"
 
 [[files]]
 file = "config/doubledoors.json5"
@@ -94,7 +94,7 @@ hash = "019214d9b7d4f4547e82b79b313eb6347b9dcad33e7b895969c755a690854683"
 
 [[files]]
 file = "config/explorerscompass.json"
-hash = "5409641851b41b40f8f78606859dd21b2536081eb0da5d59320af4fc4a72ff16"
+hash = "3c9e39e4d6a36db5d84e4b1eae822eb54840418fc5dfcdda972443c3e49075f9"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -170,7 +170,7 @@ hash = "1c0fbe0965bdfb1271b7be90e86bc4fbd9114bb768fc0a4995da0f3621531bfc"
 
 [[files]]
 file = "config/naturescompass.json"
-hash = "bbeb62950ff24dccbd21da9dd554990fbc1b72c307040f6f835669983cf638dc"
+hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
 
 [[files]]
 file = "config/onlypaxelconfig.toml"
@@ -273,6 +273,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "mods/big-giant-gun-1.0.0.jar"
+hash = "8655730c09669c88a00008bbcc2928fafae78e818628d41e0ceadd90662e70bd"
+
+[[files]]
 file = "mods/CraftableSaddle-fabric-1.21.10-1.7.2.jar"
 hash = "8096bd760055b09519f974e557e746ae20a8ab9390aef1b321fc797a42110eb0"
 
@@ -302,10 +306,6 @@ hash = "5756cb05c3ad7ca3ff32deccffa43ef5057018416d2001af137e45d8797f36d0"
 metafile = true
 
 [[files]]
-file = "mods/big-giant-gun-1.0.0.jar"
-hash = "8655730c09669c88a00008bbcc2928fafae78e818628d41e0ceadd90662e70bd"
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "5548560fe3c688df9ace426a565671a86d1c7b5dc766f4ccfdd961835603b07a"
 metafile = true
@@ -313,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6083db761c82eece49adba0b0cee0b37068422e2eb170b7039ebae65972d03e1"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "35b547f436644b0b5e08f36386fcf16e76616f0ab772c5c9bd1196accebd223b"
 metafile = true
 
 [[files]]
@@ -366,11 +361,6 @@ hash = "2c70a5c7fe3645b0e297fef8b9b091666e96c0b362d984918ed22df94464f2f0"
 metafile = true
 
 [[files]]
-file = "mods/dragon-drops-elytra.pw.toml"
-hash = "55bac5f69548d3aa7242d42c13830571a8a5e4b47031ecd159adc43f881f865a"
-metafile = true
-
-[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "5b68880f4f5606aa7848d5b1ed9fbb7351a41094a3e5d1090d943b85a5d8bc0a"
 metafile = true
@@ -388,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "5145ab7c2f6069d8eb78766c0096288c1f86d87823c45db13745890838281977"
-metafile = true
-
-[[files]]
-file = "mods/elytra_trinket.pw.toml"
-hash = "9e37268cbf22a22d68ea1cb6b56c82ea551e5da4a8a876f59cb7a0d16833f017"
 metafile = true
 
 [[files]]
@@ -515,11 +500,6 @@ hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
 metafile = true
 
 [[files]]
-file = "mods/set-home.pw.toml"
-hash = "8bbf3dcfe493270e6486ee1bbd2839706e8f8cb7ebe429579143598b9823cd61"
-metafile = true
-
-[[files]]
 file = "mods/silk.pw.toml"
 hash = "493a76add332abb0dfa23004300ea2ae77a8448960f603519c1db5ab4d769413"
 metafile = true
@@ -547,11 +527,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "5b502f579ac3050520da74e3aa85d511f580f14943a9b50a20681da0b6ddbba8"
-metafile = true
-
-[[files]]
-file = "mods/trinkets-canary.pw.toml"
-hash = "d46a8d72f489c2d8d7ccea5c9ae7d871b4b1ec9ff2dc8eef613710adf76c8209"
 metafile = true
 
 [[files]]

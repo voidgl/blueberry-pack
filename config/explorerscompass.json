@@ -1,7 +1,7 @@
 {
   "common": {
     "allowTeleportComment": "Allows a player to teleport to a located structure when in creative mode, opped, or in cheat mode.",
-    "allowTeleport": false,
+    "allowTeleport": true,
     "displayCoordinatesComment": "Allows players to view the precise coordinates and distance of a located structure on the HUD, rather than relying on the direction the compass is pointing.",
     "displayCoordinates": true,
     "maxRadiusComment": "The maximum radius that will be searched for a structure. Raising this value will increase search accuracy but will potentially make the process more resource intensive.",
