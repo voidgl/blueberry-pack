@@ -1,6 +1,6 @@
 name = "Xaero's World Map"
 filename = "xaeroworldmap-fabric-1.21.10-1.40.11.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/swwGbE2Y/xaeroworldmap-fabric-1.21.10-1.40.11.jar"

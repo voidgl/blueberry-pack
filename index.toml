@@ -346,6 +346,10 @@ hash = "887692fff7bde49c34e88b6518a87d9c72545d073a23eb5e14ae0296bbba5bc5"
 metafile = true
 
 [[files]]
+file = "mods/connectivity-fabric-1.21.10-7.6.jar"
+hash = "7a9a5e58541dfa57b78e5a72dd72380c9e0c3a5e0cfbc3e6ee02a194edf8cf62"
+
+[[files]]
 file = "mods/controllablecarts.pw.toml"
 hash = "8fa5a2b80339340aa5f3044f9f675e9ed9b7994d79933a35e960709e3a0f59b4"
 metafile = true
@@ -354,6 +358,10 @@ metafile = true
 file = "mods/creativecore.pw.toml"
 hash = "d61eea65d903963fc412f1e6dc4ec5c9f89814358e324cb734e0ec6e40ece483"
 metafile = true
+
+[[files]]
+file = "mods/cupboard-fabric-1.21.10-3.0.jar"
+hash = "3dc5147a57250543629123c860c4f38493f9516b52bf7969741c6fa43bd29d72"
 
 [[files]]
 file = "mods/custom-portals.pw.toml"
@@ -561,12 +569,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "361986055445d4bc51c04fef877501e7791ee361d3cccedced7344b17d70f8c4"
+hash = "a8e5a06bfa617de96dd463eac905f907729fb4b22efdc0bb86b370b8f55b0404"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "428c9b21e6c1cccaa18ab2afcba72b0bef30aa81cb392d8624699fe5934600b6"
+hash = "78560c7f8f91245607c231e8f2209bbe395ce832f496decf110577b93aa99d9b"
 metafile = true
 
 [[files]]
