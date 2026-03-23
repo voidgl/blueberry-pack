@@ -391,6 +391,11 @@ hash = "5145ab7c2f6069d8eb78766c0096288c1f86d87823c45db13745890838281977"
 metafile = true
 
 [[files]]
+file = "mods/elytra_chestplate.pw.toml"
+hash = "dc0c0d99f2ddea86fe5dfcd055bee57f4ea1db530d3e221f11f8bbdf29aaf8b5"
+metafile = true
+
+[[files]]
 file = "mods/expanded-bow-enchanting.pw.toml"
 hash = "43ef367288bc63d2f6e565eaa7a0afd7e2654629a4dd8bcd0369a99ed264048e"
 metafile = true

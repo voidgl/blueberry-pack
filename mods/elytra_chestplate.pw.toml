@@ -1,0 +1,13 @@
+name = "Elytra Chestplate"
+filename = "elytra_chestplate-2.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Luk2wi3b/versions/5eEBFZ1z/elytra_chestplate-2.6.1.jar"
+hash-format = "sha512"
+hash = "23e9079bef4c472d3eb9cd7741373b22a879f832ac6bed5b0f5d8fa5e01ad419c80eb48068d0e3f99de708da63b4f297de77cd8e888e6845f68809b0dcaaec94"
+
+[update]
+[update.modrinth]
+mod-id = "Luk2wi3b"
+version = "5eEBFZ1z"
