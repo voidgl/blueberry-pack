@@ -316,6 +316,11 @@ hash = "6083db761c82eece49adba0b0cee0b37068422e2eb170b7039ebae65972d03e1"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "35b547f436644b0b5e08f36386fcf16e76616f0ab772c5c9bd1196accebd223b"
+metafile = true
+
+[[files]]
 file = "mods/clipboardscreenshot.pw.toml"
 hash = "bd41bd1ed33a10cbe5a2f6dfaa581ad0a0ac9b543937e93766ad4cceae081f55"
 metafile = true
