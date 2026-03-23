@@ -366,6 +366,11 @@ hash = "2c70a5c7fe3645b0e297fef8b9b091666e96c0b362d984918ed22df94464f2f0"
 metafile = true
 
 [[files]]
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "55bac5f69548d3aa7242d42c13830571a8a5e4b47031ecd159adc43f881f865a"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "5b68880f4f5606aa7848d5b1ed9fbb7351a41094a3e5d1090d943b85a5d8bc0a"
 metafile = true
