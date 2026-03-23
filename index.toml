@@ -273,10 +273,6 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
-file = "mods/big-giant-gun-1.0.0.jar"
-hash = "8655730c09669c88a00008bbcc2928fafae78e818628d41e0ceadd90662e70bd"
-
-[[files]]
 file = "mods/CraftableSaddle-fabric-1.21.10-1.7.2.jar"
 hash = "8096bd760055b09519f974e557e746ae20a8ab9390aef1b321fc797a42110eb0"
 
@@ -304,6 +300,10 @@ metafile = true
 file = "mods/better-multiplayer-sleep.pw.toml"
 hash = "5756cb05c3ad7ca3ff32deccffa43ef5057018416d2001af137e45d8797f36d0"
 metafile = true
+
+[[files]]
+file = "mods/big-giant-gun-1.0.0.jar"
+hash = "8655730c09669c88a00008bbcc2928fafae78e818628d41e0ceadd90662e70bd"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
@@ -497,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
+metafile = true
+
+[[files]]
+file = "mods/set-home.pw.toml"
+hash = "8bbf3dcfe493270e6486ee1bbd2839706e8f8cb7ebe429579143598b9823cd61"
 metafile = true
 
 [[files]]
