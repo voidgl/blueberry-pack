@@ -1,0 +1,13 @@
+name = "Elytra Trinket"
+filename = "Minecraft-Elytra-Trinket-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wk57PrDM/versions/s632EFZb/Minecraft-Elytra-Trinket-1.0.10.jar"
+hash-format = "sha512"
+hash = "7cc6eb4dfc85ad90a081a05518921f0df2c537f1643e99fd4c85f1f2ff282145cb3f920770aa8db7cbd56c0fe45fa819b9fd07cfde508da68b22e515e4c43914"
+
+[update]
+[update.modrinth]
+mod-id = "wk57PrDM"
+version = "s632EFZb"

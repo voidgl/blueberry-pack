@@ -1,0 +1,13 @@
+name = "Trinkets Canary"
+filename = "trinkets-3.11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nH02ielQ/versions/ctuA7Kxo/trinkets-3.11.0.jar"
+hash-format = "sha512"
+hash = "043a08f9925e203754948df9f1f3dfcb70c6aa92b0f7edefa47c3230e0778196bf2a0a1ded6645a198bbcdc4721fbfab6267edffeb4b9403647f46ac11406003"
+
+[update]
+[update.modrinth]
+mod-id = "nH02ielQ"
+version = "ctuA7Kxo"

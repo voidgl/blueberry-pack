@@ -1,0 +1,13 @@
+name = "Set Home"
+filename = "set-home-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2khkV8xP/versions/ZBX0SdvO/set-home-0.0.2.jar"
+hash-format = "sha512"
+hash = "05b5d0ebf44edef99dc74de5b7e4b1c98cd9721133e5e8137e9634f4b6c4f5a8a358b1f9f42085818807d5b773fb0b51e4a3274a112660029ce5fc17a31b6296"
+
+[update]
+[update.modrinth]
+mod-id = "2khkV8xP"
+version = "ZBX0SdvO"
