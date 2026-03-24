@@ -444,11 +444,6 @@ hash = "800d0b5cf418e09c3ae3dbdd539e811d784ea42051bb71a4cd00039727375603"
 metafile = true
 
 [[files]]
-file = "mods/enhancedtooltips.pw.toml"
-hash = "8633851a36f9b774b5230051b52c2a67b39833176e7225839f14c3a34a200144"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "28a6274b99c351c6331adc743d91a89d29f3578ba4e0a50f4ba71060061ae7f1"
 metafile = true
