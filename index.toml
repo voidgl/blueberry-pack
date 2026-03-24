@@ -336,6 +336,11 @@ hash = "dd8bb0776c5977e47d262d89c7857a5ffd81fc5824ec97538378f5078d0f6fb0"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6083db761c82eece49adba0b0cee0b37068422e2eb170b7039ebae65972d03e1"
 metafile = true
@@ -489,6 +494,11 @@ hash = "db0822640747cdebeda42f19b1deee1a4886b559512c84a8cdd06720f83cabfb"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
 metafile = true
@@ -544,8 +554,18 @@ hash = "83fc77051e675c101fddb28ed303ce57deb4d26b58c025d4d9f60b2d1b37a5c1"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "2eee7e963181362354e729c13106723950064729f134cea67d0a313c1c64fae4"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
@@ -710,11 +730,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-furniture.pw.toml"
 hash = "508af93fdb83f935225c12c3824ec45dc21cf8529f14d87ab2aa7079cc7a6c80"
-metafile = true
-
-[[files]]
-file = "mods/veinminer-enchantment.pw.toml"
-hash = "56d354ec654763cc6c6c1c81a0110a6267a28eb8beac6eecddca3810c4de2dbd"
 metafile = true
 
 [[files]]
