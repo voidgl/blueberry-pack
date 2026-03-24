@@ -1,0 +1,13 @@
+name = "Blackwolf Library"
+filename = "BlackwolfLibrary-fabric-1.21.10-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mskYGmCA/versions/wKgO3BuF/BlackwolfLibrary-fabric-1.21.10-1.1.7.jar"
+hash-format = "sha512"
+hash = "be71d13c25813e3d0aba337135a04d07e3bd22502a4d6a62cf90d3ff6e01f8ebcaab15106c79651e0e4e4ed5cd3abb7b39ac21b9e17adb63537c930da44e2c6f"
+
+[update]
+[update.modrinth]
+mod-id = "mskYGmCA"
+version = "wKgO3BuF"
