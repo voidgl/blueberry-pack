@@ -1,0 +1,13 @@
+name = "More Decorative Blocks"
+filename = "MoreDecorativeBlocks-fabric-1.21.10-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xud8DAFy/versions/BWeJrfJv/MoreDecorativeBlocks-fabric-1.21.10-1.1.3.jar"
+hash-format = "sha512"
+hash = "5718dc90157426ad545db378f555352f6c8dcd1699115ef33f6c7086d93ee97576155b0eae73b679d303e78dace9b998754e31debf1defc7c995aaf321384c72"
+
+[update]
+[update.modrinth]
+mod-id = "xud8DAFy"
+version = "BWeJrfJv"

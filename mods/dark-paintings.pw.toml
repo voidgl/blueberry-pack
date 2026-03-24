@@ -1,0 +1,13 @@
+name = "Dark Paintings"
+filename = "darkpaintings-fabric-1.21.10-21.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/DT9LySSj/darkpaintings-fabric-1.21.10-21.10.1.jar"
+hash-format = "sha512"
+hash = "76b8a35078f817b5b2508bce073cab894169ffd2f9d17f9e3d3f0337dd67b9df574f6b108b8fb62a6eb6766c6d07f67f4082d24287c9cf294f1903706a36a4c0"
+
+[update]
+[update.modrinth]
+mod-id = "lFGQ4Hnk"
+version = "DT9LySSj"

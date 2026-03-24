@@ -1,0 +1,13 @@
+name = "EnhancedTooltips"
+filename = "EnhancedTooltips-1.8.0+fabric.1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8H6RXl2q/versions/6LI0rrcK/EnhancedTooltips-1.8.0%2Bfabric.1.21.10.jar"
+hash-format = "sha512"
+hash = "0d7c25b286de70e2fb1fe029bc248e1a0dd31132f6b1793d3c7a859193f5a4852e20fef424662ea3ac2dcd7e6bc0cbe5c8f6b42dcb8996c0d7f1080c4239cafa"
+
+[update]
+[update.modrinth]
+mod-id = "8H6RXl2q"
+version = "6LI0rrcK"

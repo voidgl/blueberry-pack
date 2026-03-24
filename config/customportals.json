@@ -1,6 +1,6 @@
 {
-	unlimitedRange: false,
-	alwaysInterdim: false,
+	unlimitedRange: true,
+	alwaysInterdim: true,
 	alwaysHaste: "CREATIVE",
 	// Only allows portals to link if they were each constructed by the same player. Useful for servers.
 	privatePortals: false,

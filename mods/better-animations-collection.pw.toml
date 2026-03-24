@@ -1,0 +1,13 @@
+name = "Better Animations Collection"
+filename = "BetterAnimationsCollection-v21.10.0+mc1.21.10-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoOVj3J3/versions/36LE1BlG/BetterAnimationsCollection-v21.10.0%2Bmc1.21.10-Fabric.jar"
+hash-format = "sha512"
+hash = "ff087eff23674fee8d18c551cf31a980d7a873985255bcb2dac77872eae71b8f06983434dc02541616833319468111c00c545d146a8d7bab2a147276acd1e5f4"
+
+[update]
+[update.modrinth]
+mod-id = "OoOVj3J3"
+version = "36LE1BlG"
