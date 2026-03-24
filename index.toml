@@ -509,6 +509,11 @@ hash = "ac0b84ad1e0633c17eccfc77c6a9b08b3d9efe5dd8e65f0f831df18779640c64"
 metafile = true
 
 [[files]]
+file = "mods/fwa.pw.toml"
+hash = "fda14c0cf3b21e6355e7779d28f8b192b0f52cf66d8e9d9b5b5d4e26a961af38"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "cc4a12cee04af27f3ca40ebe8d9509292a35f7b944cb5892de9adfaeecae6fda"
 metafile = true
