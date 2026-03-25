@@ -1,0 +1,13 @@
+name = "Skniro's Furniture"
+filename = "SkniroFurniture-1.5.0-1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pezpt98N/versions/n15HhGc7/SkniroFurniture-1.5.0-1.21.10-Fabric.jar"
+hash-format = "sha512"
+hash = "e3b3b518d9e393847e06b9d5d3325ad423bc4f80b833f5bbc092c7ecab1862b94b299187653d971781d58dfa173150c5be55a98bdb77c1e7e68761795a02f131"
+
+[update]
+[update.modrinth]
+mod-id = "pezpt98N"
+version = "n15HhGc7"

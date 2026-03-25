@@ -1,0 +1,13 @@
+name = "MultiBeds"
+filename = "multibeds-fabric-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JyytxgF6/versions/MYv3cgF7/multibeds-fabric-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "b3f515f15a39b3fd54e0be211b390833fab9f1524737e48718a434a64220207e0198e185cc8c37ec7247546719f8483aee8e806f4d9caec207fe6e71c2dfc11b"
+
+[update]
+[update.modrinth]
+mod-id = "JyytxgF6"
+version = "MYv3cgF7"
