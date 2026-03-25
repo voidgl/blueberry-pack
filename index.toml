@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+hash = "731284bbfcd8900314bac3244877a4dd7688f14b7142af41d7dc5bd6250dd12d"
 metafile = true
 
 [[files]]
@@ -614,6 +614,11 @@ hash = "fb56439dbf0e8300832c74253ea6472634e205267e98d37e2e4c2c9492217c88"
 metafile = true
 
 [[files]]
+file = "mods/more-bed-variants.pw.toml"
+hash = "946124f1cab349bee6bf959954baba80b6039f0ccbd8d4a10cb27f8fcb669943"
+metafile = true
+
+[[files]]
 file = "mods/more-decorative-blocks.pw.toml"
 hash = "3828b82c48a6b9ee58c4ca48998cea1641b6b8aed5cef2701d8109c9cbe4a038"
 metafile = true
@@ -621,11 +626,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "08bfd9206da2a48954acae3a6083db563173def502333b6b49e7ec4cf083e231"
-metafile = true
-
-[[files]]
-file = "mods/multibeds.pw.toml"
-hash = "bd519c969d975be3f94410074a5c672f655020d31bd56d8094b523e6221fa2f9"
 metafile = true
 
 [[files]]
@@ -680,11 +680,6 @@ metafile = true
 [[files]]
 file = "mods/set-home.pw.toml"
 hash = "8bbf3dcfe493270e6486ee1bbd2839706e8f8cb7ebe429579143598b9823cd61"
-metafile = true
-
-[[files]]
-file = "mods/shetiphiancore.pw.toml"
-hash = "6e26156298621738a3ccb1d10fe9f0dcf4004bb7f2cbc86ac818f42f538b4281"
 metafile = true
 
 [[files]]
