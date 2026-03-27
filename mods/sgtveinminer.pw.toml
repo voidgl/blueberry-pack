@@ -1,0 +1,13 @@
+name = "Veinminer"
+filename = "Veinminer-fabric-3.1.2+mc1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MnavVAzj/versions/6JkccrFf/Veinminer-fabric-3.1.2%2Bmc1.21.10.jar"
+hash-format = "sha512"
+hash = "232956ad1d866a86f077abcd75f9c61b039614b8b4bb0f5fe37ce78791e29d1537163accbefcffdb21f848260b45bccf7b016f8ba0a7c9bee0b1a1fbbf24bad3"
+
+[update]
+[update.modrinth]
+mod-id = "MnavVAzj"
+version = "6JkccrFf"

@@ -683,6 +683,11 @@ hash = "8bbf3dcfe493270e6486ee1bbd2839706e8f8cb7ebe429579143598b9823cd61"
 metafile = true
 
 [[files]]
+file = "mods/sgtveinminer.pw.toml"
+hash = "37f44946e9d6590cb7a5891fc554cc0ff5896d83756408c9fadf2d42fe8776fd"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "493a76add332abb0dfa23004300ea2ae77a8448960f603519c1db5ab4d769413"
 metafile = true
