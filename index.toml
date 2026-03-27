@@ -743,11 +743,6 @@ hash = "508af93fdb83f935225c12c3824ec45dc21cf8529f14d87ab2aa7079cc7a6c80"
 metafile = true
 
 [[files]]
-file = "mods/veinminer.pw.toml"
-hash = "5cb9a93032a75644cdf442b05a29e0616c76df503ee6b3dd3ab367ad1a04ff60"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "61d853a4f2d353ac126a8196414efc82d0ca0402da2a8e492383dd539bfe4976"
 metafile = true
