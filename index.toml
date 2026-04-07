@@ -609,11 +609,6 @@ hash = "e2a20afc87664809d023f0ed815798f491b52c9b5b7abd02bfba1478eb57561d"
 metafile = true
 
 [[files]]
-file = "mods/minecart-trains-fork.pw.toml"
-hash = "11f0774734fd0c248a14b55b66f8c2c26ac8bb70176581182b548bea8f0dd71d"
-metafile = true
-
-[[files]]
 file = "mods/more-bed-variants.pw.toml"
 hash = "946124f1cab349bee6bf959954baba80b6039f0ccbd8d4a10cb27f8fcb669943"
 metafile = true
