@@ -1,13 +1,13 @@
 name = "Minecart Trains Fork"
-filename = "minecart-trains-fork-2.2.1+1.21.9.fabric.jar"
+filename = "minecart-trains-fork-2.2.2+1.21.9.fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PtALnG3G/versions/ij7EZGeV/minecart-trains-fork-2.2.1%2B1.21.9.fabric.jar"
+url = "https://cdn.modrinth.com/data/PtALnG3G/versions/w8Yq8yvH/minecart-trains-fork-2.2.2%2B1.21.9.fabric.jar"
 hash-format = "sha512"
-hash = "71140a7fa47e51df37a1b8a3aeb829bca01c3ab00c13e2cd23f44411ae2b8a082ec777babb9249be994ba7d1d014933bf4d2766ed13502ce25a946362debb169"
+hash = "a980653e343253695493a1de0b5df46a551932171fb05f690c0d0f881a4fb101e2046c3f4fe972d605e2e6fcd135c9e056ec9056fbf13fdf8421ee9e7deb0952"
 
 [update]
 [update.modrinth]
 mod-id = "PtALnG3G"
-version = "ij7EZGeV"
+version = "w8Yq8yvH"
