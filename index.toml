@@ -624,6 +624,10 @@ hash = "4629f9551a645efd4b53b4ded6d4aa20e827b48307d6cf24c81d4a3f50ab8ad5"
 metafile = true
 
 [[files]]
+file = "mods/nirvana-fabric-2.1.0.jar"
+hash = "d4976481d035a4d9e978738e6d135bf5e177a119b27e59739f25d0c70e44b7da"
+
+[[files]]
 file = "mods/nocreeperexplosion-1.21.9-1.21.10-1.0.0+fabric.jar"
 hash = "e9f98bf2030b7053c768283144ef8dcbe9c3b3ba1d615620ddc6aabb5af02506"
 
