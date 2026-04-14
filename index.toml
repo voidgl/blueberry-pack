@@ -439,11 +439,6 @@ hash = "5145ab7c2f6069d8eb78766c0096288c1f86d87823c45db13745890838281977"
 metafile = true
 
 [[files]]
-file = "mods/elytra_chestplate.pw.toml"
-hash = "dc0c0d99f2ddea86fe5dfcd055bee57f4ea1db530d3e221f11f8bbdf29aaf8b5"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-insights.pw.toml"
 hash = "800d0b5cf418e09c3ae3dbdd539e811d784ea42051bb71a4cd00039727375603"
 metafile = true
