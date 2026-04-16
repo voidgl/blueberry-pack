@@ -757,5 +757,10 @@ hash = "976682e613b79e310fe22c5ddc2322bfc76665295cd9fa885787dfa08b7764b2"
 metafile = true
 
 [[files]]
+file = "resourcepacks/generic-connected-glass.pw.toml"
+hash = "701c0826ba07c45f22259ee679fa661da2f57ccc570feed7823e193620b1e71a"
+metafile = true
+
+[[files]]
 file = "shaderpacks/MakeUp-UltraFast-9.4c.zip"
 hash = "f88931d65e971807148d09b71ee4aa85e293184cac94405c7d84350b22cb91d9"

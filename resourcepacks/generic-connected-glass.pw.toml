@@ -1,0 +1,13 @@
+name = "Connected Glass"
+filename = "Connected Glass 1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CLOcaWJw/versions/cZSj6WbW/Connected%20Glass%201.0.0.zip"
+hash-format = "sha512"
+hash = "02484ffca8c1ac97db4e2d4f2cbd82f0677a72383c623ced9f2c9cf4b9adda1e6ef047b3f78275cc20361efd54f35b28de7143612211ab1af57e5e2b566a5c58"
+
+[update]
+[update.modrinth]
+mod-id = "CLOcaWJw"
+version = "cZSj6WbW"
