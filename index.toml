@@ -677,6 +677,11 @@ hash = "37f44946e9d6590cb7a5891fc554cc0ff5896d83756408c9fadf2d42fe8776fd"
 metafile = true
 
 [[files]]
+file = "mods/signed-paintings.pw.toml"
+hash = "0fc6befe1d6088bb2444ededa56ea4f3d21a2d52c460e27857d239abeaa4136f"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "493a76add332abb0dfa23004300ea2ae77a8448960f603519c1db5ab4d769413"
 metafile = true

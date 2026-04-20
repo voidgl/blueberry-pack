@@ -1,7 +1,7 @@
 {
 	unlimitedRange: true,
 	alwaysInterdim: true,
-	alwaysHaste: "CREATIVE",
+	alwaysHaste: "YES",
 	// Only allows portals to link if they were each constructed by the same player. Useful for servers.
 	privatePortals: false,
 	// Note: Setting this to 'Turns Portals On' means your portals will be off without redstone power!
