@@ -682,10 +682,6 @@ hash = "37f44946e9d6590cb7a5891fc554cc0ff5896d83756408c9fadf2d42fe8776fd"
 metafile = true
 
 [[files]]
-file = "mods/signed_paintings-blueberry.jar"
-hash = "0a90ccddcac2bf2d459afa59c72e36407990f0acad8a0ad9d03a206894cd61d1"
-
-[[files]]
 file = "mods/silk.pw.toml"
 hash = "493a76add332abb0dfa23004300ea2ae77a8448960f603519c1db5ab4d769413"
 metafile = true
