@@ -672,6 +672,11 @@ hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
 metafile = true
 
 [[files]]
+file = "mods/reinforced-barrels.pw.toml"
+hash = "536ba2654af1b2a99253be35e2974f85a989f496ca09dd5f15f2f2459ab7157f"
+metafile = true
+
+[[files]]
 file = "mods/set-home.pw.toml"
 hash = "8bbf3dcfe493270e6486ee1bbd2839706e8f8cb7ebe429579143598b9823cd61"
 metafile = true
@@ -679,6 +684,11 @@ metafile = true
 [[files]]
 file = "mods/sgtveinminer.pw.toml"
 hash = "37f44946e9d6590cb7a5891fc554cc0ff5896d83756408c9fadf2d42fe8776fd"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "6cc155f0633b2187f5bc71357ab1d82c1d49f9592bcbd73191ec1001c98c342b"
 metafile = true
 
 [[files]]
@@ -707,6 +717,11 @@ hash = "f46e15c77317a2a38ae56a4c6231ef6efbaab5cab20039ec1aae5217bcbe2a47"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "cd1d4c8b2ad6df29e9f152301f51f46b5c4641882dc20d5eef8934e58fd70e77"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
@@ -724,6 +739,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "73b96f5d0345bff977a9c69524bedf4805c7070bfa0ba65329dd166b891e64bb"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "9fd880d9ed7032a8d9815e62d8e16ae4caaa6b648f40414b4ace35027341d623"
 metafile = true
 
 [[files]]
