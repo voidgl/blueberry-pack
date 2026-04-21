@@ -54,7 +54,7 @@ hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
 file = "config/customportals.json"
-hash = "56a93f9365aa11176ec0e481144e997c58b0bc2ece661a35ef0e389c167a7378"
+hash = "031568d49a4bd121bc41f8a71667e974911718399c6ed31b184f85fc24595aa9"
 
 [[files]]
 file = "config/doubledoors.json5"
@@ -431,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "10ba9f3c589f58f7129549fdf4b7dcb1e64fc376518dc56be058c68f60760dd1"
+metafile = true
+
+[[files]]
+file = "mods/elytra-armor.pw.toml"
+hash = "bfad224754f03d4cd15f7764b9321042d448740397680bf7baebc3e2234d8919"
 metafile = true
 
 [[files]]
