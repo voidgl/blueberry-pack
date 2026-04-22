@@ -346,6 +346,11 @@ hash = "6083db761c82eece49adba0b0cee0b37068422e2eb170b7039ebae65972d03e1"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "7243f5258960ac15593488a49811b27f6de0e5fce447768e4588fcff95abc757"
+metafile = true
+
+[[files]]
 file = "mods/click-mobs.pw.toml"
 hash = "6a1fad959688d78e0d0c8caed00fd376ae21d46ccc6461aa35b4a35b74d88355"
 metafile = true
@@ -674,6 +679,11 @@ metafile = true
 [[files]]
 file = "mods/reinforced-barrels.pw.toml"
 hash = "536ba2654af1b2a99253be35e2974f85a989f496ca09dd5f15f2f2459ab7157f"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
