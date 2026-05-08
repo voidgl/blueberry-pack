@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "731284bbfcd8900314bac3244877a4dd7688f14b7142af41d7dc5bd6250dd12d"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
 
 [[files]]
@@ -455,12 +455,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "28a6274b99c351c6331adc743d91a89d29f3578ba4e0a50f4ba71060061ae7f1"
+hash = "7d7f8b8cb9e79a848084add1ab3c233683ee75865a72887f3786ae010101b6d4"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "bc93381428d6407f5c6fa7e49ea01818e85e48083bdcdd3a5d87b2176977e9fd"
+hash = "27afacf195a3757d569fa1f6f4363e5ad608e8033092db2324e6b9091a1c2e19"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "fda14c0cf3b21e6355e7779d28f8b192b0f52cf66d8e9d9b5b5d4e26a961af38"
+hash = "ff1bf45f4684b9166fec08c394adda6d5e044cea990abf69ab84ff3fa8f694f1"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
-hash = "59d6aa1a45192dd0529fd9d885b6cf36a26391c5f09d8efe3816d8e35d86ddb0"
+hash = "03834b2a1c187ada6e3129f2df11bca071eae4f782240b34944df82006576de6"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-bed-variants.pw.toml"
-hash = "946124f1cab349bee6bf959954baba80b6039f0ccbd8d4a10cb27f8fcb669943"
+hash = "0b0b2ed607b82e29171c6b361e613c9a8f66f4e9c22ef3c0bb4ebb36b711bd68"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ hash = "e9f98bf2030b7053c768283144ef8dcbe9c3b3ba1d615620ddc6aabb5af02506"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "37f0bc20da6968667e0f52d6689ed5f32c1d6256765fba4083700aeb42046e13"
+hash = "3298a0752379c5ec1195d21fad4c1a82ce44561a1527d143be71714d1d136b72"
 metafile = true
 
 [[files]]
@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "d4497145e749921699071dc07126bd1f00fbc0c41cf3939d4517fbe4aedc40cd"
+hash = "d4856b4a335190e94bbe68bb0a6c3b888ca45ea5acf066f939b0b13dc01410ef"
 metafile = true
 
 [[files]]
@@ -783,12 +783,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a8e5a06bfa617de96dd463eac905f907729fb4b22efdc0bb86b370b8f55b0404"
+hash = "fd571ef018fa2350c064c2d5c818b7c891dcdf5a93b02391dda770ff9f19a591"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "78560c7f8f91245607c231e8f2209bbe395ce832f496decf110577b93aa99d9b"
+hash = "dc0cf4da59e389617e671fc18436b07b66ec874a8f41cc1f9b99e9eb62301ef4"
 metafile = true
 
 [[files]]
