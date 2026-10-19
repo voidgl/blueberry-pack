@@ -297,6 +297,11 @@ hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "d2416c9882caa02158d22a25ab42c95d096a1d00e796e34a46a0c4b6c5267c88"
 metafile = true
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6083db761c82eece49adba0b0cee0b37068422e2eb170b7039ebae65972d03e1"
+metafile = true
+
+[[files]]
+file = "mods/chrono-dawn.pw.toml"
+hash = "75302bc8a2246937ca828fa31840906c729516747808320a1e6d73e9f0ec8ac6"
 metafile = true
 
 [[files]]
@@ -454,6 +464,11 @@ hash = "800d0b5cf418e09c3ae3dbdd539e811d784ea42051bb71a4cd00039727375603"
 metafile = true
 
 [[files]]
+file = "mods/ender-zoology.pw.toml"
+hash = "53daec24b65dec73c684c9b77fa11009a4f4bc923e6c5842cc3c03b65438ad0d"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7d7f8b8cb9e79a848084add1ab3c233683ee75865a72887f3786ae010101b6d4"
 metafile = true
@@ -461,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "27afacf195a3757d569fa1f6f4363e5ad608e8033092db2324e6b9091a1c2e19"
+metafile = true
+
+[[files]]
+file = "mods/eternal-nether.pw.toml"
+hash = "1b407d7c09de4788e259da09c91afcec7b4951f8c635cf4b9f9a0d2bd715ea5e"
 metafile = true
 
 [[files]]
@@ -526,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/gravelminer.pw.toml"
 hash = "fe66f61bbbd1f2e38b676b5ea5b3af722205b2bbebc9fe4706a09a3a9347b72c"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "50c10e9c38b84ea1c192b801fe37362e079831f5b014bd6c1c87f70c6af7a6f1"
 metafile = true
 
 [[files]]
@@ -621,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "08bfd9206da2a48954acae3a6083db563173def502333b6b49e7ec4cf083e231"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "ba75de4202e86af389d343eaf72fc401bef33e469382a4cbf14319a96ac935d0"
 metafile = true
 
 [[files]]

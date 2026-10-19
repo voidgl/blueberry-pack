@@ -1,0 +1,13 @@
+name = "Chrono Dawn"
+filename = "chronodawn-0.13.0+1.21.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yEsoyNev/versions/ZTM7Ytwj/chronodawn-0.13.0%2B1.21.10-fabric.jar"
+hash-format = "sha512"
+hash = "07c0a9ebbf4432436e4f3ab3f7ef573a14d26e15399e91f093fde25ddea6e717f3f782956cb44a042c1212859440ca8a63c90e55eb206de7d24aef6db21f7284"
+
+[update]
+[update.modrinth]
+mod-id = "yEsoyNev"
+version = "ZTM7Ytwj"
