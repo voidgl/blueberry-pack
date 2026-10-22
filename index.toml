@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/chrono-dawn.pw.toml"
-hash = "75302bc8a2246937ca828fa31840906c729516747808320a1e6d73e9f0ec8ac6"
+hash = "c8c4446edbf2d8900cbff9471fd282f0358a12270851159b4d4ede0ef8dbf8cf"
 metafile = true
 
 [[files]]
@@ -654,18 +654,13 @@ hash = "ba75de4202e86af389d343eaf72fc401bef33e469382a4cbf14319a96ac935d0"
 metafile = true
 
 [[files]]
-file = "mods/name-tag-crafting-recipe-mod.pw.toml"
-hash = "011b3cfd6414efce410ad90a990a0dfd7636ee0126d31520905fa4ceaeea5c38"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "4629f9551a645efd4b53b4ded6d4aa20e827b48307d6cf24c81d4a3f50ab8ad5"
 metafile = true
 
 [[files]]
 file = "mods/nirvana-fabric-2.1.0.jar"
-hash = "d4976481d035a4d9e978738e6d135bf5e177a119b27e59739f25d0c70e44b7da"
+hash = "3480e480e22daad3b6577010c7e6ac31494486e162820487f8e165f8bc25d295"
 
 [[files]]
 file = "mods/nocreeperexplosion-1.21.9-1.21.10-1.0.0+fabric.jar"
